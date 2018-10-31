@@ -31,7 +31,7 @@ Easy Usage Steps:
 
     # Wow!!!, your sms has been sent...
     
-for the above sending command, the message sent will be look like
+for the above sending command, the message sent will look like
 
     7411129611:
     Have a nice day and night...
